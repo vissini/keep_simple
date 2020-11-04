@@ -1,0 +1,16 @@
+{
+    "name": "diego/keep_simple",
+    "description": "Teste Booglan",
+    "authors": [
+        {
+            "name": "Diego Vissini",
+            "email": "diego@vissini.com.br"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Booglan\\": "src/"
+        }
+    }
+}
